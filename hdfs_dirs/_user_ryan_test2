@@ -1,7 +1,2 @@
 filename	size	modification time	access time	is directory
-hdfs://dev/user/ryan/test2/br.aondir.pipelines_extraction.20150112.json	146579668	2015-Jan-30 10:08:32	2015-Feb-02 05:12:43	false
-hdfs://dev/user/ryan/test2/br.doctoralia.pipelines_extraction.20150112.json	179061684	2015-Jan-30 10:09:49	2015-Feb-02 05:08:23	false
 hdfs://dev/user/ryan/test2/br.enkontre.pipelines_extraction.cleaned.20150109.json	255740143	2015-Jan-30 10:13:35	2015-Feb-02 05:11:04	false
-hdfs://dev/user/ryan/test2/br.here.pipelines_extraction.20150110.json	271424393	2015-Jan-30 10:11:43	2015-Feb-02 05:05:25	false
-hdfs://dev/user/ryan/test2/copy.json	271424393	2015-Feb-02 05:05:36	2015-Feb-02 05:05:25	false
-hdfs://dev/user/ryan/test2/italy_sample_data.json	8145	2014-Dec-30 09:10:11	2015-Feb-02 02:48:52	false
