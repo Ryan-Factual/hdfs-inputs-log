@@ -1,2 +1,3 @@
 filename	size	modification time	access time	is directory
 hdfs://dev/user/ryan/test/subtest/br.aondir.pipelines_extraction.20150112.json	146579668	2015-Jan-30 10:08:32	2015-Feb-06 10:34:20	false
+hdfs://dev/user/ryan/test/subtest/br.here.pipelines_extraction.20150110.json	271424393	2015-Jan-30 10:11:43	2015-Feb-02 11:30:57	false
