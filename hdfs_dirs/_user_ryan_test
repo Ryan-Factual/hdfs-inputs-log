@@ -1,6 +1,6 @@
 filename	size	modification time	access time	is directory
 hdfs://dev/user/ryan/test/br.doctoralia.pipelines_extraction.20150112.json	271424393	2015-Jan-30 10:11:43	2015-Feb-02 11:30:57	false
 hdfs://dev/user/ryan/test/raw_data	0	2015-Feb-09 11:52:18	1970-Jan-01 00:00:00	true
-hdfs://dev/user/ryan/test/subtest	0	2015-Feb-12 10:17:52	1970-Jan-01 00:00:00	true
+hdfs://dev/user/ryan/test/subtest	0	2015-Feb-12 10:22:58	1970-Jan-01 00:00:00	true
 hdfs://dev/user/ryan/test/subtest2	146579668	2015-Jan-30 10:08:32	2015-Feb-09 06:38:26	false
 hdfs://dev/user/ryan/test/validation_data	0	2015-Feb-09 11:50:22	1970-Jan-01 00:00:00	true
