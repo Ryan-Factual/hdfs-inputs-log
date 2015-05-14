@@ -2,4 +2,3 @@ filename	size	modification time	is directory
 hdfs://dev/user/ryan/test/br.doctoralia.pipelines_extraction.20150112.json	258 MB	2015-Jan-30 10:11:43	false
 hdfs://dev/user/ryan/test/raw_data	0 bytes	2015-Feb-09 11:52:18	true
 hdfs://dev/user/ryan/test/subtest	0 bytes	2015-May-14 03:00:30	true
-hdfs://dev/user/ryan/test/validation_data	0 bytes	2015-Feb-09 11:50:22	true
