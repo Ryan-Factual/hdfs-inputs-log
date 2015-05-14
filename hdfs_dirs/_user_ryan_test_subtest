@@ -1,2 +1,3 @@
-filename	size	modification time	access time	is directory
-hdfs://dev/user/ryan/test/subtest/br.doctoralia.pipelines_extraction.20150112.json	271424393	2015-Jan-30 10:11:43	2015-Feb-02 11:30:57	false
+filename	size	modification time	is directory
+hdfs://dev/user/ryan/test/subtest/br.doctoralia.pipelines_extraction.20150112.json.2	258 MB	2015-May-14 03:23:11	false
+hdfs://dev/user/ryan/test/subtest/br.doctoralia.pipelines_extraction.20150112.json.3	258 MB	2015-May-14 03:22:57	false
