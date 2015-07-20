@@ -1,5 +1,4 @@
 filename	size	modification time	is directory
 hdfs://dev/user/ryan/test/raw_data	0 bytes	2015-Feb-09 11:52:18	true
 hdfs://dev/user/ryan/test/subtest	0 bytes	2015-Jul-20 07:39:39	true
-hdfs://dev/user/ryan/test/testfile	804 bytes	2015-Jul-20 10:09:24	false
 hdfs://dev/user/ryan/test/validation_data	0 bytes	2015-May-15 07:14:08	true
