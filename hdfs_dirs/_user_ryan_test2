@@ -1,3 +1,4 @@
-filename	size	modification time	access time	is directory
-hdfs://dev/user/ryan/test2/br.enkontre.pipelines_extraction.cleaned.20150109.json	255740143	2015-Jan-30 10:13:35	2015-Feb-02 05:11:04	false
-hdfs://dev/user/ryan/test2/copy.json	271424393	2015-Feb-02 05:05:36	2015-Feb-06 07:53:06	false
+filename	size	modification time	is directory
+hdfs://dev/user/ryan/test2/br.enkontre.pipelines_extraction.cleaned.20150109.json	243 MB	2015-Jan-30 10:13:35	false
+hdfs://dev/user/ryan/test2/copy.json	258 MB	2015-Feb-02 05:05:36	false
+hdfs://dev/user/ryan/test2/test_origin2	868 bytes	2015-Aug-31 06:26:41	false
